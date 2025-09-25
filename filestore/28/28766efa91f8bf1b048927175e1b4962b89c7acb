@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20230217T143417Z - 11281@as46a.odoo.com
+DTSTART:20230225T020000Z
+DTEND:20230225T023000Z
+ATTENDEE:MAILTO:info@springboard4education.com
+ATTENDEE:MAILTO:sokuntepychriv@gmail.com
+CREATED:20230217T143417Z
+DESCRIPTION:Mobile: 089867738\nEmail: sokuntepychriv@gmail.com\nWhat is you
+ r school or university name?: RUPP\nDo you offer any other English languag
+ e test?: TOEFL
+DTSTAMP:20230217T143417Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=SpringBoard4Education:MAILTO:info@springboard4education.com
+SUMMARY:New British Council IELTS test venue with Chriv Sokun Tepy
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Notification - 1 Hours
+TRIGGER;related=START:PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

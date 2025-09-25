@@ -1,0 +1,32 @@
+
+#oe_snippets > .o_we_customize_panel we-customizeblock-option we-list we-title, #oe_snippets > .o_we_customize_panel we-customizeblock-option we-list we-button {
+  margin-top: 8px;
+}
+
+#oe_snippets > .o_we_customize_panel we-customizeblock-option we-list .oe_we_table_wraper {
+  margin-top: 8px;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+#oe_snippets > .o_we_customize_panel we-customizeblock-option we-list .oe_we_table_wraper table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+#oe_snippets > .o_we_customize_panel we-customizeblock-option we-list .oe_we_table_wraper table input {
+  background-color: var(--o-we-bg-color-dark);
+  color: var(--o-we-color);
+  border: none;
+  width: 100%;
+}
+
+#oe_snippets > .o_we_customize_panel we-customizeblock-option we-list .oe_we_table_wraper table tr {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-left: none;
+  border-right: none;
+}
+
+#oe_snippets > .o_we_customize_panel we-customizeblock-option we-list .oe_we_table_wraper table td:first-child, #oe_snippets > .o_we_customize_panel we-customizeblock-option we-list .oe_we_table_wraper table td:last-child {
+  width: 28px;
+}

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20230423T134617Z - 37910@as64a.odoo.com
+DTSTART:20230424T020000Z
+DTEND:20230424T023000Z
+ATTENDEE:MAILTO:info@springboard4education.com
+ATTENDEE:MAILTO:tengneatey@gmail.com
+CREATED:20230423T134617Z
+DESCRIPTION:Mobile: +85585230532\nEmail: tengneatey@gmail.com\nWhich countr
+ y do you want to go study?: US\nWhich intake are you planning to enrol?: 2
+ 023\nWhat subject (major) do you want to study?: Criminal law\nDo you have
+  IELTS test score or Cambridge English result or other English score repor
+ t?: No
+DTSTAMP:20230423T134617Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=SpringBoard4Education:MAILTO:info@springboard4education.com
+SUMMARY:Study Abroad with Teng Neatey
+END:VEVENT
+END:VCALENDAR

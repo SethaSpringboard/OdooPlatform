@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20230531T074537Z - 76362@as64a.odoo.com
+DTSTART:20230610T020000Z
+DTEND:20230610T023000Z
+ATTENDEE:MAILTO:Kaiphasouk@gmail.com
+ATTENDEE:MAILTO:info@springboard4education.com
+CREATED:20230531T074537Z
+DESCRIPTION:Mobile: 02055497891\nEmail: Kaiphasouk@gmail.com\nWhat is your 
+ school or university name?: N/A\nDo you offer any other English language t
+ est?: Cambridge English\nWhat is your school facebook name?: N/A
+DTSTAMP:20230531T074537Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=SpringBoard4Education:MAILTO:info@springboard4education.com
+SUMMARY:New British Council IELTS test venue with Phasouk
+END:VEVENT
+END:VCALENDAR

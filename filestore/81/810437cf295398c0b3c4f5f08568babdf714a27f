@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20220928T135914Z - 44058@as50a.odoo.com
+DTSTART:20220929T080000Z
+DTEND:20220929T083000Z
+ATTENDEE:MAILTO:info@springboard4education.com
+ATTENDEE:MAILTO:sarsochea1874@gmail.com
+CREATED:20220928T135914Z
+DESCRIPTION:Mobile: 011779288\nEmail: sarsochea1874@gmail.com\nWhich countr
+ y do you want to go study?: UK\nWhich intake are you planning to enrol?: 2
+ 023\nWhat subject (major) do you want to study?: Law\nDo you have IELTS te
+ st score or Cambridge English result or other English score report?: Yes\n
+ What is your facebook name?: Sochea Sar
+DTSTAMP:20220928T135914Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=SpringBoard4Education:MAILTO:info@springboard4education.com
+SUMMARY:Study Abroad with Sar Sochea
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Notification - 1 Hours
+TRIGGER;related=START:PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20230302T101441Z - 59249@as46a.odoo.com
+DTSTART:20230304T020000Z
+DTEND:20230304T023000Z
+ATTENDEE:MAILTO:info@springboard4education.com
+ATTENDEE:MAILTO:c.danelrath@gmail.com
+CREATED:20230302T101441Z
+DESCRIPTION:Mobile: 087626298\nEmail: c.danelrath@gmail.com\nWhat is your s
+ chool or university name?: PUC\nDo you offer any other English language te
+ st?: TOEFL\nWhat is your school facebook name?: PUC
+DTSTAMP:20230302T101441Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=SpringBoard4Education:MAILTO:info@springboard4education.com
+SUMMARY:New British Council IELTS test venue with Rath Chandanel
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Notification - 1 Hours
+TRIGGER;related=START:PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

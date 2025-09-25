@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20230212T024457Z - 62161@as46a.odoo.com
+DTSTART:20230213T080000Z
+DTEND:20230213T083000Z
+ATTENDEE:MAILTO:info@springboard4education.com
+ATTENDEE:MAILTO:jason@the-upscale.com
+CREATED:20230212T024457Z
+DESCRIPTION:Mobile: +66624164584\nEmail: jason@the-upscale.com\nWhich count
+ ry do you want to go study?: Thailand\nWhich intake are you planning to en
+ rol?: 2023\nWhat subject (major) do you want to study?: MBA (Business Mast
+ er's)\nDo you have IELTS test score or Cambridge English result or other E
+ nglish score report?: Yes\nWhat is your facebook name?: Sreng Meng (https:
+ //www.facebook.com/sreng.meng0411/)
+DTSTAMP:20230212T024457Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=SpringBoard4Education:MAILTO:info@springboard4education.com
+SUMMARY:Study Abroad with SRENG MENG
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Notification - 1 Hours
+TRIGGER;related=START:PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

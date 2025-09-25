@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20230511T035932Z - 51987@as64a.odoo.com
+DTSTART:20230511T060000Z
+DTEND:20230511T063000Z
+ATTENDEE:MAILTO:info@springboard4education.com
+ATTENDEE:MAILTO:vladlykov@duck.com
+CREATED:20230511T035932Z
+DESCRIPTION:Mobile: +855718576043\nEmail: vladlykov@duck.com\nWhich country
+  do you want to go study?: Thailand\nWhich intake are you planning to enro
+ l?: 2022\nWhat subject (major) do you want to study?: Management\nDo you h
+ ave IELTS test score or Cambridge English result or other English score re
+ port?: Yes
+DTSTAMP:20230511T035932Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=SpringBoard4Education:MAILTO:info@springboard4education.com
+SUMMARY:Study Abroad with Vlad Lykov
+END:VEVENT
+END:VCALENDAR

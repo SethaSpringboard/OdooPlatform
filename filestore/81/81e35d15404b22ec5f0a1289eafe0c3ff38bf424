@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20230303T082053Z - 3290@as46a.odoo.com
+DTSTART:20230304T030000Z
+DTEND:20230304T033000Z
+ATTENDEE:MAILTO:info@springboard4education.com
+ATTENDEE:MAILTO:t.sambathmarina@gmail.com
+CREATED:20230303T082053Z
+DESCRIPTION:Mobile: 089780452\nEmail: t.sambathmarina@gmail.com\nWhich coun
+ try do you want to go study?: Australia\nWhich intake are you planning to 
+ enrol?: 2024\nWhat subject (major) do you want to study?: International Bu
+ siness Law\nDo you have IELTS test score or Cambridge English result or ot
+ her English score report?: Yes\nWhat is your facebook name?: Marina Tan
+DTSTAMP:20230303T082053Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=SpringBoard4Education:MAILTO:info@springboard4education.com
+SUMMARY:Study Abroad with Tan Sambathmarina
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Notification - 1 Hours
+TRIGGER;related=START:PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

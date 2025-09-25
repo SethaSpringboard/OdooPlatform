@@ -1,0 +1,36 @@
+// This file is meant to be edited automatically by the user. The variables it
+// contains should not be renamed otherwise it would break existing customers
+// customizations.
+
+$o-user-website-values: map-merge($o-user-website-values, o-map-omit((
+    'menu-gradient': null,
+    'header-boxed-gradient': null,
+    'footer-gradient': 'NULL',
+    'copyright-gradient': null,
+    'font': 'Jost',
+    'headings-font': 'Jost',
+    'navbar-font': 'Jost',
+    'buttons-font': 'SYSTEM_FONTS',
+    'color-palettes-number': null,
+    'color-palettes-name': null,
+    'btn-ripple': null,
+    'header-template': 'default',
+    'footer-template': 'descriptive',
+    'footer-scrolltop': true,
+    'menu-secondary-gradient': null,
+    'layout': 'framed',
+    'header-links-style': default,
+    '': null,
+    'link-underline': 'always',
+    'hamburger-position-mobile': 'center',
+    'header-font-size': 1.0625rem,
+    'logo-height': 2.8125rem,
+    'fixed-logo-height': 1.875rem,
+    'header-text-color': 'black',
+    'google-fonts': ('Jost'),
+    'google-local-fonts': null,
+    'font-size-base': 0.9375rem,
+    'menu-border-width': 0px,
+    'menu-border-style': double,
+    // -- hook --
+)));

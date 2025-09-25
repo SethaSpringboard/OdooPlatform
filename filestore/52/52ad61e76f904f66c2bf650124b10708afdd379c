@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20220928T150225Z - 5839@as50a.odoo.com
+DTSTART:20220929T090000Z
+DTEND:20220929T093000Z
+ATTENDEE:MAILTO:chakryasreypich855@gmail.com
+ATTENDEE:MAILTO:info@springboard4education.com
+CREATED:20220928T150225Z
+DESCRIPTION:Mobile: 085862636\nEmail: chakryasreypich855@gmail.com\nWhich c
+ ountry do you want to go study?: Australia\nWhich intake are you planning 
+ to enrol?: 2023\nWhat subject (major) do you want to study?: Health Care\n
+ Do you have IELTS test score or Cambridge English result or other English 
+ score report?: I am planing to do\nWhat is your facebook name?: Ros Chakry
+ asreypich
+DTSTAMP:20220928T150225Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=SpringBoard4Education:MAILTO:info@springboard4education.com
+SUMMARY:Study Abroad with Ros  Chakryasreypich
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Notification - 1 Hours
+TRIGGER;related=START:PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

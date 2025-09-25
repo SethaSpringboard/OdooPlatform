@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20221012T055924Z - 3597@as50a.odoo.com
+DTSTART:20221017T070000Z
+DTEND:20221017T073000Z
+ATTENDEE:MAILTO:pt942004@gmail.com
+ATTENDEE:MAILTO:Devit.teng@springboard4education.com
+CREATED:20221012T055924Z
+DESCRIPTION:Mobile: 070695678\nEmail: pt942004@gmail.com\nWhich country do 
+ you want to go study?: Singapore\nWhich intake are you planning to enrol?:
+  2023\nWhat subject (major) do you want to study?: Business Management\nDo
+  you have IELTS test score or Cambridge English result or other English sc
+ ore report?: No\nWhat is your facebook name?: Te Prasidh
+DTSTAMP:20221012T055924Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=Devit Teng:MAILTO:Devit.teng@springboard4education.com
+SUMMARY:Study Abroad with Te Prasidh
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Notification - 1 Hours
+TRIGGER;related=START:PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

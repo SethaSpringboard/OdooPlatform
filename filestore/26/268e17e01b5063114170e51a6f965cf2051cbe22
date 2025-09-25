@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20220727T114449Z - 46988@as50a.odoo.com
+DTSTART:20220728T030000Z
+DTEND:20220728T033000Z
+ATTENDEE:MAILTO:Devit.teng@springboard4education.com
+ATTENDEE:MAILTO:njiemvit@sgu.edu
+CREATED:20220727T114449Z
+DESCRIPTION:Mobile: +66914162351\nEmail: njiemvit@sgu.edu\nWhich country do
+  you want to go study?: Other\nWhich intake are you planning to enrol?: 20
+ 22\nWhat subject (major) do you want to study?: N/A\nDo you have IELTS tes
+ t score or Cambridge English result or other English score report?: No\nWh
+ at is your facebook name?: N/A
+DTSTAMP:20220727T114449Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=Devit Teng:MAILTO:Devit.teng@springboard4education.com
+SUMMARY:Study Abroad with Nalinee Jiemvithayanukul
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Notification - 1 Hours
+TRIGGER;related=START:PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

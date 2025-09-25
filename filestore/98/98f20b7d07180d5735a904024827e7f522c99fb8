@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240204T033216Z - 34473@as89a.odoo.com
+DTSTART:20240205T060000Z
+DTEND:20240205T063000Z
+ATTENDEE:MAILTO:info@springboard4education.com
+ATTENDEE:MAILTO:sovannsamnangs@yahoo.com
+CREATED:20240204T033216Z
+DESCRIPTION:Contact Details:\nSpringBoard4Education\nEmail: info@springboar
+ d4education.com\nPhone: 85592961861
+DTSTAMP:20240204T033216Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=SpringBoard4Education:MAILTO:info@springboard4education.com
+SUMMARY:New British Council IELTS test venue with SpringBoard4Education
+END:VEVENT
+END:VCALENDAR

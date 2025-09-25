@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240410T090331Z - 75864@as89a.odoo.com
+DTSTART:20240411T060000Z
+DTEND:20240411T063000Z
+ATTENDEE:MAILTO:info@springboard4education.com
+ATTENDEE:MAILTO:roshanpatowa@yahoo.com
+CREATED:20240410T090331Z
+DESCRIPTION:Contact Details:\nSpringBoard4Education\nEmail: info@springboar
+ d4education.com\nPhone: 85592961861
+DTSTAMP:20240410T090331Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=SpringBoard4Education:MAILTO:info@springboard4education.com
+SUMMARY:Study Abroad with SpringBoard4Education
+END:VEVENT
+END:VCALENDAR

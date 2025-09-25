@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20230531T080101Z - 41507@as64a.odoo.com
+DTSTART:20230624T020000Z
+DTEND:20230624T023000Z
+ATTENDEE:MAILTO:sundaysouvanthong@gmail.com
+ATTENDEE:MAILTO:info@springboard4education.com
+CREATED:20230531T080101Z
+DESCRIPTION:Mobile: +8562095340813\nEmail: sundaysouvanthong@gmail.com\nWha
+ t is your school or university name?: National university of Laos\nDo you 
+ offer any other English language test?: Cambridge English\nWhat is your sc
+ hool facebook name?: NA
+DTSTAMP:20230531T080101Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=SpringBoard4Education:MAILTO:info@springboard4education.com
+SUMMARY:New British Council IELTS test venue with Phetphaphone
+END:VEVENT
+END:VCALENDAR

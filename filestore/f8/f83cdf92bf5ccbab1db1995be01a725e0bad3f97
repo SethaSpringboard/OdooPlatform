@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20250507T143354Z - 60114@as132a.odoo.com
+DTSTART:20250508T060000Z
+DTEND:20250508T063000Z
+ATTENDEE:MAILTO:info@springboard4education.com
+ATTENDEE:MAILTO:info.nashif@gmail.com
+CREATED:20250507T143354Z
+DESCRIPTION:Springboard Banner [1]\n\n\n[1] /web/image/1563-314706d5/Spring
+ board Banner.jpg?access_token=44bd3ddf-5c8c-41c1-bdd0-c652456407e7\n\nCont
+ act Details:\nSpringBoard4Education\nEmail: info@springboard4education.com
+ \nPhone: 85592961861
+DTSTAMP:20250507T143354Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=SpringBoard4Education:MAILTO:info@springboard4education.com
+SUMMARY:Study Abroad with SpringBoard4Education
+END:VEVENT
+END:VCALENDAR

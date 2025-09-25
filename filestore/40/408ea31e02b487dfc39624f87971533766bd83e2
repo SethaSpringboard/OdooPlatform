@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20230510T104651Z - 86924@as64a.odoo.com
+DTSTART:20230515T040000Z
+DTEND:20230515T043000Z
+ATTENDEE:MAILTO:kevinhong7711138@gmail.com
+ATTENDEE:MAILTO:info@springboard4education.com
+CREATED:20230510T104651Z
+DESCRIPTION:Mobile: 069771138\nEmail: kevinhong7711138@gmail.com\nWhat is y
+ our school or university name?: University of New South Wales Global\nDo y
+ ou offer any other English language test?: Cambridge English
+DTSTAMP:20230510T104651Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=SpringBoard4Education:MAILTO:info@springboard4education.com
+SUMMARY:New British Council IELTS test venue with Kienghong Phourn
+END:VEVENT
+END:VCALENDAR

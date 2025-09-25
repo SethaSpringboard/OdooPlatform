@@ -1,0 +1,26 @@
+
+.o-timer-button:focus {
+  border: none !important;
+  outline: 0 !important;
+}
+
+.o-timer-button > i {
+  transition: 0.3s;
+}
+
+.o-timer-button > i.o-timer-play-button {
+  color: #008784 !important;
+}
+
+.o-timer-button > i.o-timer-stop-button {
+  color: #dc3545 !important;
+}
+
+.o-timer-button:hover > i.o-timer-play-button {
+  color: #003a39 !important;
+}
+
+.o-timer-button:hover > i.o-timer-stop-button {
+  color: #a71d2a !important;
+}
+

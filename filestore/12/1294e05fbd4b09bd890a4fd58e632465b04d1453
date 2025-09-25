@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20220623T160931Z - 52112@as50a.odoo.com
+DTSTART:20220625T043000Z
+DTEND:20220625T050000Z
+ATTENDEE:MAILTO:chhchancharya@gmail.com
+ATTENDEE:MAILTO:Devit.teng@springboard4education.com
+CREATED:20220623T160931Z
+DESCRIPTION:Mobile: 012312085\nEmail: chhchancharya@gmail.com\nWhich countr
+ y do you want to go study?: UK\nWhich intake are you planning to enrol?: 2
+ 023\nWhat subject (major) do you want to study?: Masters Degree in Digital
+  Business\nDo you have IELTS test score or Cambridge English result or oth
+ er English score report?: Yes\nWhat is your facebook name?: Chan Charya
+DTSTAMP:20220623T160931Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=Devit Teng:MAILTO:Devit.teng@springboard4education.com
+SUMMARY:Study Abroad with Chhim Chancharya
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Notification - 1 Hours
+TRIGGER;related=START:PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

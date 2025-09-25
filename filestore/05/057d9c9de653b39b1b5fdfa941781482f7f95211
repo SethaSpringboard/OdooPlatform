@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20221228T051923Z - 1894@as50a.odoo.com
+DTSTART:20221228T090000Z
+DTEND:20221228T093000Z
+ATTENDEE:MAILTO:info@springboard4education.com
+ATTENDEE:MAILTO:kamlaingek.tes@gmail.com
+CREATED:20221228T051923Z
+DESCRIPTION:Mobile: 087535673\nEmail: kamlaingek.tes@gmail.com\nWhich count
+ ry do you want to go study?: Australia\nWhich intake are you planning to e
+ nrol?: 2023\nWhat subject (major) do you want to study?: Masters of Statis
+ tics\nDo you have IELTS test score or Cambridge English result or other En
+ glish score report?: Yes
+DTSTAMP:20221228T051923Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=SpringBoard4Education:MAILTO:info@springboard4education.com
+SUMMARY:Study Abroad with Ek
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Notification - 1 Hours
+TRIGGER;related=START:PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

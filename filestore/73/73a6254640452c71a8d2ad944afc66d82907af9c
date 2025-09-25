@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20230707T160029Z - 8250@as64a.odoo.com
+DTSTART:20230708T020000Z
+DTEND:20230708T023000Z
+ATTENDEE:MAILTO:pengsokkhim919@gmail.com
+ATTENDEE:MAILTO:info@springboard4education.com
+CREATED:20230707T160029Z
+DESCRIPTION:Mobile: 0964686409\nEmail: pengsokkhim919@gmail.com\nWhich coun
+ try do you want to go study?: Canada\nWhich intake are you planning to enr
+ ol?: 2024\nWhat subject (major) do you want to study?: Business Administra
+ tion\nDo you have IELTS test score or Cambridge English result or other En
+ glish score report?: I am planing to do
+DTSTAMP:20230707T160029Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=SpringBoard4Education:MAILTO:info@springboard4education.com
+SUMMARY:Study Abroad with Sokkhim Peng
+END:VEVENT
+END:VCALENDAR

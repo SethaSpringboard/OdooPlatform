@@ -1,0 +1,40 @@
+// This file is meant to be edited automatically by the user. The variables it
+// contains should not be renamed otherwise it would break existing customers
+// customizations.
+
+$o-user-website-values: map-merge($o-user-website-values, o-map-omit((
+    'font': null,
+    'headings-font': null,
+    'navbar-font': null,
+    'buttons-font': null,
+    'color-palettes-number': null,
+    'btn-ripple': null,
+    'header-template': 'vertical',
+    'footer-template': 'links',
+    'footer-scrolltop': null,
+    'menu-box-shadow': rgba(0,0,0,0.15) 0px 8px 16px 0px,
+    'font-size-base': 0.8125rem,
+    'btn-primary-outline': false,
+    'btn-secondary-outline': false,
+    'btn-font-size': 0.625rem,
+    'link-underline': 'hover',
+    'input-font-size': 0.9375rem,
+    'input-padding-y': 0.625rem,
+    'input-padding-x': 0.9375rem,
+    'btn-padding-y': 0.375rem,
+    'layout': 'full',
+    'hamburger-type': 'default',
+    'google-fonts': ('Nunito', 'Teko', 'Righteous', 'Judson', 'Public Sans'),
+    'hamburger-position': 'center',
+    'header-font-size': 0.8125rem,
+    'header-links-style': default,
+    'logo-height': 3.125rem,
+    'fixed-logo-height': 3.125rem,
+    'footer-effect': null,
+    'footer-gradient': 'NULL',
+    'btn-border-radius': 5rem,
+    'menu-gradient': 'NULL',
+    '': null,
+    'copyright-gradient': 'NULL',
+    // -- hook --
+)));

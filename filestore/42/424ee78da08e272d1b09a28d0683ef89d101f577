@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20220503T030950Z - 54030@as36a.odoo.com
+DTSTART:20220503T040000Z
+DTEND:20220503T043000Z
+ATTENDEE:MAILTO:tangmey286@gmail.com
+ATTENDEE:MAILTO:Devit.teng@springboard4education.com
+CREATED:20220503T030950Z
+DESCRIPTION:Mobile: 016988757\nEmail: tangmey286@gmail.com\nWhich country d
+ o you want to go study?: Australia\nWhich intake are you planning to enrol
+ ?: 2022\nWhat subject (major) do you want to study?: Finance\nDo you have 
+ IELTS test score or Cambridge English result or other English score report
+ ?: No\nWhat is your facebook name?: Mey Tang
+DTSTAMP:20220503T030950Z
+LOCATION:SpringBoard4Education Office
+SUMMARY:Study Abroad with mey tang
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Notification - 1 Hours
+TRIGGER;related=START:PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

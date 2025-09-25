@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20230626T165426Z - 49687@as64a.odoo.com
+DTSTART:20230628T070000Z
+DTEND:20230628T073000Z
+ATTENDEE:MAILTO:nimith.111@gmail.com
+ATTENDEE:MAILTO:info@springboard4education.com
+CREATED:20230626T165426Z
+DESCRIPTION:Mobile: 061893589\nEmail: nimith.111@gmail.com\nWhich country d
+ o you want to go study?: New Zealand\nWhich intake are you planning to enr
+ ol?: 2024\nWhat subject (major) do you want to study?: CS & IT\nDo you hav
+ e IELTS test score or Cambridge English result or other English score repo
+ rt?: I am planing to do\nWhat is your facebook name?: Ni Mith
+DTSTAMP:20230626T165426Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=SpringBoard4Education:MAILTO:info@springboard4education.com
+SUMMARY:Study Abroad with Nimith
+END:VEVENT
+END:VCALENDAR

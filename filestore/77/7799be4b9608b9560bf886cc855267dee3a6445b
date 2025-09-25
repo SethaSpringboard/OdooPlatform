@@ -1,0 +1,15 @@
+
+.s_dynamic .carousel-control-prev, .s_dynamic .carousel-control-next {
+  position: absolute;
+  text-shadow: 0px 0px 3px #343A40;
+  width: 4rem;
+}
+
+.s_dynamic .carousel-control-prev {
+  left: -4rem;
+}
+
+.s_dynamic .carousel-control-next {
+  right: -4rem;
+}
+

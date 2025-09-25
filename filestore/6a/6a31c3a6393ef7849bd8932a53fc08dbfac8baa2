@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20220510T124827Z - 83840@as36a.odoo.com
+DTSTART:20220511T070000Z
+DTEND:20220511T073000Z
+ATTENDEE:MAILTO:hulmarany@gmail.com
+ATTENDEE:MAILTO:info@springboard4education.com
+CREATED:20220510T124827Z
+DESCRIPTION:Mobile: 086760969\nEmail: hulmarany@gmail.com\nWhich country do
+  you want to go study?: US\nWhich intake are you planning to enrol?: 2023\
+ nWhat subject (major) do you want to study?: Businesses administration spe
+ cializing in Marketing\nDo you have IELTS test score or Cambridge English 
+ result or other English score report?: Yes\nWhat is your facebook name?: M
+ arany Hul
+DTSTAMP:20220510T124827Z
+LOCATION:SpringBoard4Education Office
+SUMMARY:Study Abroad with Hul Marany 
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Notification - 1 Hours
+TRIGGER;related=START:PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

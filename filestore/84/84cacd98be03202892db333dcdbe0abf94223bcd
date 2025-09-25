@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20220928T142531Z - 14273@as50a.odoo.com
+DTSTART:20220929T080000Z
+DTEND:20220929T083000Z
+ATTENDEE:MAILTO:Devit.teng@springboard4education.com
+ATTENDEE:MAILTO:suymuyhour2408@gmail.com
+CREATED:20220928T142531Z
+DESCRIPTION:Mobile: 078877555\nEmail: suymuyhour2408@gmail.com\nWhich count
+ ry do you want to go study?: US\nWhich intake are you planning to enrol?: 
+ 2023\nWhat subject (major) do you want to study?: Health Science or Medica
+ l Science\nDo you have IELTS test score or Cambridge English result or oth
+ er English score report?: No\nWhat is your facebook name?: Muyy Hour
+DTSTAMP:20220928T142531Z
+LOCATION:SpringBoard4Education Office
+ORGANIZER;CN=Devit Teng:MAILTO:Devit.teng@springboard4education.com
+SUMMARY:Study Abroad with Suy Muyhour
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Notification - 1 Hours
+TRIGGER;related=START:PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

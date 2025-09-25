@@ -1,0 +1,24 @@
+// This file is meant to be edited automatically by the user. The variables it
+// contains should not be renamed otherwise it would break existing customers
+// customizations.
+
+$o-user-website-values: map-merge($o-user-website-values, o-map-omit((
+    'font': null,
+    'headings-font': null,
+    'navbar-font': 'Inter',
+    'buttons-font': null,
+    'color-palettes-number': null,
+    'btn-ripple': null,
+    'header-template': 'sales_one',
+    'footer-template': 'contact',
+    'footer-scrolltop': null,
+    'hamburger-position': 'center',
+    'google-fonts': ('Righteous'),
+    'logo-height': 3.125rem,
+    'fixed-logo-height': 2.1875rem,
+    'header-links-style': default,
+    'menu-box-shadow': rgba(0,0,0,0.075) 0px 2px 4px 0px,
+    'header-font-size': 0.9375rem,
+    '': null,
+    // -- hook --
+)));
